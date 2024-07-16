@@ -1,0 +1,9 @@
+/node_modules
+/build/*
+/src/vendor
+package-lock.json
+yarn.lock
+
+# Editor folders
+.vscode
+.idea

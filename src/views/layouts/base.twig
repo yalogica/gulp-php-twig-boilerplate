@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
+    <script type="text/javascript" src="{{ site.url }}/assets/js/main.js"></script>
+</head>
+<body>
+{% include "parts/header.twig" %}
+
+{% block content %}
+{% endblock %}
+
+{% include "parts/footer.twig" %}
+</body>
+</html>

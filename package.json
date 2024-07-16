@@ -1,0 +1,19 @@
+{
+	"name": "gulp-php-twig-boilerplate",
+	"author": "Max Lawrence",
+	"homepage": "https://yalogica.com/",
+	"license": "MIT",
+	"main": "gulpfile.js",
+	"type": "module",
+	"devDependencies": {
+		"browser-sync": "^3.0.2",
+		"gulp": "^5.0.0",
+		"gulp-autoprefixer": "^9.0.0",
+		"gulp-cached": "^1.1.1",
+		"gulp-connect-php": "^1.0.3",
+		"gulp-debug": "^5.0.1",
+		"gulp-rimraf": "^1.0.0",
+		"gulp-sass": "^5.1.0",
+		"sass": "^1.77.6"
+	}
+}
