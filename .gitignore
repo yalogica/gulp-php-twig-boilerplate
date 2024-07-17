@@ -2,6 +2,7 @@
 /build
 /src/vendor
 package-lock.json
+composer.lock
 yarn.lock
 
 # Editor folders
