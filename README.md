@@ -1,4 +1,4 @@
-# Gulp with PHP & Twig Boilerplate
+# Gulp, PHP & Twig Boilerplate
 
 A simple and efficient boilerplate for PHP projects that combines the power of Gulp and the elegance of Twig. This boilerplate provides a solid foundation for rapid PHP development with a focus on automation and template rendering.
 
